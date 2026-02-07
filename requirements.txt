@@ -1,0 +1,10 @@
+# Computer Vision and Model Architecture
+ultralytics
+
+# Experiment Tracking and MLOps
+clearml
+
+# Core Dependencies (usually handled by ultralytics, but good to specify)
+torch
+torchvision
+numpy
